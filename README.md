@@ -34,8 +34,8 @@ To make our life simpler. Besides, it's good to make some skeletons. How many ti
 
 ## Who worked on this?
 
-- Design part - [@joe](https://github.com/JoseSantos5455)
-- Logic part - [@joe](https://github.com/JoseSantos5455) - with **a lots of** Google searches and no sleep ☕️
+- Design part - [@here](https://github.com/JoseSantos5455)
+- Logic part - [@here](https://github.com/JoseSantos5455) - with **a lots of** Google searches and no sleep ☕️
 
 ## What's not ready yet?
 
